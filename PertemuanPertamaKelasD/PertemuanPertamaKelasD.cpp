@@ -12,7 +12,7 @@ int main()
 	nluas = 0, 5 * (nAlas * nTinggi);
 	cout << "Luasnya Adalah= " << nluas << endl;
 	
-	int panjang, lebar, luas
+	int panjang, lebar, luas;
 
 	system("pause");
 }//end
